@@ -1,0 +1,11 @@
+---
+title: "PSY6422 Test"
+author: "Emilia"
+date: "`r Sys.Date()`"
+output:
+  html_document: default
+---
+
+# Rmarkdown and Git 
+
+We are tryin  something new. Testing if it works. Hopefull, this is not too bad. 
